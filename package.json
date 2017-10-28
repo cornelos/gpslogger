@@ -1,0 +1,15 @@
+{
+  "name": "gpslogger",
+  "version": "1.0.0",
+  "description": "gps logger service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Corne Los",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "express": "^4.16.2"
+  }
+}
